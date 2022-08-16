@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Lyra is an options trading protocol accessing the scalability of Layer 2 Ethereum to provide a robust, lightning-fast and reliable trading experience."
+  },
+  "id": "3a1234e7-281a-49e4-ad7a-5bca0f994ae0",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "website": "https://www.lyra.finance",
+    "twitter": "https://twitter.com/lyrafinance",
+    "coingecko": "https://coingecko.com/coins/lyra-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png"
+  },
+  "name": "Lyra Finance",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "LYRA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
