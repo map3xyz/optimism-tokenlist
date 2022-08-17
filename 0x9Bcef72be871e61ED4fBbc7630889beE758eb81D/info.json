@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Rocket Pool is the first truly decentralised Ethereum staking pool."
+  },
+  "id": "85cbd0b7-3949-447e-91eb-0876b0b7d6e7",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+    "website": "https://rocketpool.net",
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "medium": "https://medium.com/rocket-pool"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D/logo.png"
+  },
+  "name": "Rocket Pool ETH",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "rETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Non-mintable ERC20 token deployed on Ethereum, secured by OpenZepellin and audited by MythX with a total supply of 100 million."
+  },
+  "id": "0bac31d4-603f-4373-b725-52be0272b584",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0xF98dCd95217E15E05d8638da4c91125E59590B07",
+    "website": "https://kromatika.finance",
+    "twitter": "https://twitter.com/KromatikaFi",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kromatika/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0xF98dCd95217E15E05d8638da4c91125E59590B07/logo.png"
+  },
+  "name": "Kromatika",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "KROM",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

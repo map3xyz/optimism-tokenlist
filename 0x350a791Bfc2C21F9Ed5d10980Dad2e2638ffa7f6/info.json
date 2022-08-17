@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments."
+  },
+  "id": "1d38d3f8-8556-4359-9c07-0e5e4d487528",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "website": "https://chain.link/",
+    "twitter": "https://twitter.com/chainlink",
+    "coingecko": "https://coingecko.com/coins/chainlink/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6/logo.png"
+  },
+  "name": "ChainLink",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
