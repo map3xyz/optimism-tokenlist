@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "On-chain derivative DEX with liquidity provisioning and up to 10x leverage for makers and takers."
+  },
+  "id": "f8d5e15a-4deb-4745-869f-6c5c23f4daff",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "website": "https://www.perp.com/",
+    "twitter": "https://twitter.com/perpprotocol",
+    "coingecko": "https://coingecko.com/coins/perpetual-protocol/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/perpetual-protocol/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo.png"
+  },
+  "name": "Perpetual",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "PERP",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

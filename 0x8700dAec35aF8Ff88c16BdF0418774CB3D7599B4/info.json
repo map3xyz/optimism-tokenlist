@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets."
+  },
+  "id": "48e0047d-8ead-4928-8603-7c8214077ec6",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "research": "https://research.binance.com/en/projects/synthetix",
+    "website": "https://synthetix.io",
+    "github": "https://github.com/havven/havven",
+    "twitter": "https://twitter.com/synthetix_io",
+    "reddit": "https://reddit.com/r/synthetix_io/",
+    "blog": "https://blog.synthetix.io/",
+    "whitepaper": "https://synthetix.io/uploads/havven_whitepaper.pdf",
+    "coingecko": "https://coingecko.com/en/coins/havven/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png"
+  },
+  "name": "Synthetix Network",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "SNX",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
