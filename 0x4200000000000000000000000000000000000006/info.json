@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4200000000000000000000000000000000000006",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "wETH is wrapped ETH"
+  },
+  "id": "6e57b7e3-e492-4863-a7e6-2f654449da0b",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000006",
+    "website": "https://weth.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/weth/",
+    "coingecko": "https://coingecko.com/coins/weth/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
+  },
+  "name": "Wrapped Ether",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "WETH",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
