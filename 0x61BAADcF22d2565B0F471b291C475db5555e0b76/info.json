@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aelin is a fundraising protocol built on Ethereum and launched on Optimism"
+  },
+  "id": "ee291be9-41d7-442f-aad5-eed7cd877a04",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+    "website": "https://aelin.xyz",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aelin/",
+    "coingecko": "https://coingecko.com/coins/aelin"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x61BAADcF22d2565B0F471b291C475db5555e0b76/logo.png"
+  },
+  "name": "Aelin Token",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "AELIN",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
