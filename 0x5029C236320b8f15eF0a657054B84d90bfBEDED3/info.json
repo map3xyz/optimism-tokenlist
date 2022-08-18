@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "BitANT is a governance token of BitBTC Protocol.10 billion BitANT have been minted at genesis, the team does not own any tokens: 80% liquidity is locked in DEX for 8 years; 15%,community airdrops; 5%,community mining. The exchange fee of the platform is mainly used to repurchase and burn BitANT."
+  },
+  "id": "65ff0f0b-89f4-4b95-824e-65f494511bd1",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+    "website": "https://bitbtc.money/",
+    "twitter": "https://twitter.com/SatoshiNJunior",
+    "medium": "https://ibitlabs.medium.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bitant/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x5029C236320b8f15eF0a657054B84d90bfBEDED3/logo.png"
+  },
+  "name": "BitANT",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "BitANT",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
