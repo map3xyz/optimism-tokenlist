@@ -7,6 +7,9 @@
     "en": "Optimism is a Layer 2 scaling solution for Ethereum."
   },
   "id": "b39b7ff8-8965-4316-9c3b-2d7db2ced224",
+  "identifiers": {
+    "coinmarketcap": 11840
+  },
   "links": {
     "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
     "website": "https://app.optimism.io/governance",

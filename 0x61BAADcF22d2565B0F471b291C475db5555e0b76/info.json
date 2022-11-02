@@ -7,6 +7,9 @@
     "en": "Aelin is a fundraising protocol built on Ethereum and launched on Optimism"
   },
   "id": "bd05b96d-1fa2-4c15-9114-718cd1ed33b0",
+  "identifiers": {
+    "coinmarketcap": 16991
+  },
   "links": {
     "explorer": "https://optimistic.etherscan.io/token/0x61BAADcF22d2565B0F471b291C475db5555e0b76",
     "website": "https://aelin.xyz",
