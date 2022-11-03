@@ -1,0 +1,15 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x4200000000000000000000000000000000000006",
+    "fromNetwork": "optimism",
+    "toAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
