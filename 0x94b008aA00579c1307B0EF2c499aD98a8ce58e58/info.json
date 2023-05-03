@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent."
+  },
+  "id": "05358921-4c74-48c7-b137-6a52654b4e33",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "website": "https://tether.to/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether/",
+    "coingecko": "https://coingecko.com/en/coins/tether/",
+    "twitter": "https://twitter.com/Tether_to"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png"
+  },
+  "name": "Tether USD",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
