@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers."
+  },
+  "id": "9551d46b-3b0d-4937-bb95-a5eb3cdefe2b",
+  "links": {
+    "explorer": "https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "website": "https://www.centre.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usd-coin/",
+    "coingecko": "https://coingecko.com/en/coins/usd-coin/",
+    "github": "https://github.com/centrehq"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/optimism-tokenlist/master/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png"
+  },
+  "name": "USD Coin",
+  "networkCode": "optimism",
+  "spam": false,
+  "symbol": "USDC",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
